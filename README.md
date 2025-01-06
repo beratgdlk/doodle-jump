@@ -1,4 +1,4 @@
-# Doodle Jump
+# Doodle Jump - Web
 
 Doodle Jump is a classic arcade game, and this project brings a browser-based version of it. The player earns points by jumping on platforms to ascend while avoiding obstacles.
 
