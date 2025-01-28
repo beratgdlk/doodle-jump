@@ -1,4 +1,4 @@
-güncelle daha dinamik bir yapı haline getir
+güncelle daha dinamik bir yapı haline 
 # Doodle Jump-Web Live -> https://jolly-gaufre-ecef4c.netlify.app/
 
 Doodle Jump is a classic arcade game, and this project brings a browser-based version of it. The player earns points by jumping on platforms to ascend while avoiding obstacles.
